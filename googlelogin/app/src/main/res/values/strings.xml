@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">googlelogin</string>
+    <string name="log_me_out">Log me out</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Id">Id</string>
+    <string name="todo">TODO</string>
+</resources>
